@@ -144,7 +144,7 @@ Zuweisungen
 : Es gibt eine einfache Zuweisung: `a = b` und kombinierte `a *= 2`.
 
 Bitwise
-: Bitwise operators work with 32-bit integers at the lowest, bit-level: see the [docs](mdn:/JavaScript/Guide/Expressions_and_Operators#Bitwise) when they are needed.
+: Bitwise operators work with 32-bit integers at the lowest, bit-level: see the [docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#bitwise_operators) when they are needed.
 
 Bedingt
 : Der einzige Operator mit drei Parametern: `cond ? resultA : resultB`. Wenn `cond` wahr ist, gib `resultA` zurück, andernfalls `resultB`.
